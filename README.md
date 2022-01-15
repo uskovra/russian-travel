@@ -10,4 +10,5 @@
 - Адаптивная верстка
 - и пр.
 
-[GitHub Pages](https://uskovra.github.io/russian-trevel/)
+[GitHub Pages](https://uskovra.github.io/russian-travel/)
+
