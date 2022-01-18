@@ -1,4 +1,8 @@
 .footer__links {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
+    list-style-type: none;
     display: flex;
     gap: 0 18px;
     font-style: normal;

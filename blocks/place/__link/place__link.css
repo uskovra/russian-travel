@@ -1,5 +1,3 @@
-/*:-webkit-any-link*/
-
 .place__link {
     color: #FFFFFF;
     font-style: normal;
@@ -7,6 +5,7 @@
     font-size: 18px;
     line-height: 22px;
     text-decoration-line: underline;
+    transition: opacity 1s;
 }
 
 .place__link:hover {
