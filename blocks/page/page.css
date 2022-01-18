@@ -28,6 +28,8 @@ div,
 nav,
 img,
 li,
-header {
+header,
+figure,
+figcaption {
     border: 1px solid yellow;
 }*/

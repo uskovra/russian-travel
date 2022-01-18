@@ -6,6 +6,7 @@
     line-height: 22px;
     text-decoration-line: underline;
     transition: opacity 1s;
+    max-width: 200px;
 }
 
 .place__link:hover {
